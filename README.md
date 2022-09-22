@@ -1,3 +1,2 @@
 # StackAndTheHeap
-
-https://github.com/tayyabaf/StackAndTheHeap/issues/1#issue-1382868333
+https://github.com/tayyabaf/StackAndTheHeap/issues/2#issue-1382886747
